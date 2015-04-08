@@ -54,4 +54,5 @@ group :development do
   gem 'byebug'
   # pry > irb
   gem 'pry-rails'
+  gem 'launchy'
 end
